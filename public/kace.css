@@ -1,0 +1,33 @@
+.btn-link{
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none; 
+}
+.card-primary.card-outline {
+    border-top: 3px solid #ff5722;
+}
+.sidebar-dark-primary .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-primary .nav-sidebar > .nav-item > .nav-link.active {
+    background-color: #ff5722;
+    color: #fff;
+}
+.kdrop{
+    background: #e9ecef;
+}
+.fmenu {
+    font-family: "Nunito", sans-serif;
+    font-size: 0.9rem; 
+    line-height: 1.6;
+}
+
+.kacepay{
+    color:#ff5722 !important;
+}
+a.kacepay {
+    color:#ff5722;
+    text-decoration: none ; 
+}
+
+
+
